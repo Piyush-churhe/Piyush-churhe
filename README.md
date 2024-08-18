@@ -16,8 +16,8 @@
 
 - 📫 How to reach me **churhepiyush@gmail.com**
 
-<div align="left">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="left" style="width: 80%" />
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" style="width: 80%" />
 </div></td></tr></table>
 
 ---
