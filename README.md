@@ -1,56 +1,53 @@
-       
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width:4%; display: inline-block;" data-target="animated-image.originalImage">   Hey! Nice to see you.
-
----
-Welcome to my page!
-I'm Thomas, Fullstack developer from <img src="https://camo.githubusercontent.com/91569e9a7327b49d7d2d017932b67fddc645967030c6342b64020a6bf7dd11a4/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373536302e706e67" style="max-width:1.5%; display: inline-block;" data-target="animated-image.originalImage"> Lorient, France, currently living in <img src="https://camo.githubusercontent.com/5da293b61e3a737391dfc4783f4164206728d8e7cc61b4c69a65a2907858acaf/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373536342e706e67" style="max-width:1.5%; display: inline-block;" data-target="animated-image.originalImage"> Stockholm, Sweden.
-
-### Things I code with
-
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) 	![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 	![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white) ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white) ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=BA478F) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Aurelia](https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fff)
-Find more badges here - (remove this)
-https://github.com/Ileriayo/markdown-badges#markdown-badges
-
-# Open source projects
-| 🎁 Projects | ⭐ Stars	 |  📚 Forks	 | 🛎 Issues | Column5 |
-| --- | --- | --- | --- | --- |
-| React PullToRefresh component | <img alt="Stars" src="https://camo.githubusercontent.com/52b358470f4f10f2f8abb4df886b09e8efbf682b3a5f00dbaa0adbe7612f2744/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" style="max-width: 100%;"> | <img alt="Forks" src="https://camo.githubusercontent.com/b8a61d07569337f78ac4072a0a54d2adb953be7f770661996caa1e1a0e38708a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" style="max-width: 100%;"> | <img alt="Issues" src="https://camo.githubusercontent.com/c40c6808b559cfde9a58568e9955da15c4c6ab0947a361134201114c3d2a3931/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" style="max-width: 100%;"> | <img alt="Pull Requests" src="https://camo.githubusercontent.com/f841268c1dfa948b433122a67f7ec9fc7b7706d173b068ae5052382c7c32f9ed/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" style="max-width: 100%;"> |
-| Typescript & React Chrome Extension Starter | <img alt="Stars" src="https://camo.githubusercontent.com/52b358470f4f10f2f8abb4df886b09e8efbf682b3a5f00dbaa0adbe7612f2744/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" style="max-width: 100%;"> | <img alt="Forks" src="https://camo.githubusercontent.com/b8a61d07569337f78ac4072a0a54d2adb953be7f770661996caa1e1a0e38708a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" style="max-width: 100%;"> | <img alt="Issues" src="https://camo.githubusercontent.com/c40c6808b559cfde9a58568e9955da15c4c6ab0947a361134201114c3d2a3931/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" style="max-width: 100%;"> | <img alt="Pull Requests" src="https://camo.githubusercontent.com/f841268c1dfa948b433122a67f7ec9fc7b7706d173b068ae5052382c7c32f9ed/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" style="max-width: 100%;"> |
-| NodeJs Express TypeScript GraphQL Starter | <img alt="Stars" src="https://camo.githubusercontent.com/52b358470f4f10f2f8abb4df886b09e8efbf682b3a5f00dbaa0adbe7612f2744/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" style="max-width: 100%;"> | <img alt="Forks" src="https://camo.githubusercontent.com/b8a61d07569337f78ac4072a0a54d2adb953be7f770661996caa1e1a0e38708a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" style="max-width: 100%;"> | <img alt="Issues" src="https://camo.githubusercontent.com/deb0057bda8fa3f02926b279e1287a684808934f670bf998a79af6971bd3df65/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f74686d73676272742f6e6f64656a732d747970657363726970742d657870726573732d61706f6c6c6f2d6772617068716c2d737461727465723f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41" style="max-width: 100%;"> | <img alt="Pull Requests" src="https://camo.githubusercontent.com/f841268c1dfa948b433122a67f7ec9fc7b7706d173b068ae5052382c7c32f9ed/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" style="max-width: 100%;"> |
-
-# My latest posts
-
-
-[![Gtarafdar Medium](https://github-readme-medium.vercel.app/?username=gtarafdar)](https://medium.com/@gtarafdar)
-
- Tips: Replace Gtarafdar with your Medium User name, and profile link, and don't forgot to remove this tip from your final readme 😉 
-
----
-
-
-
-## Connect with me
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-<a href="https://github.com/YourProfileURL" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/YourProfileURL" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/YourProfileURL" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/YourProfileURL" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/YourProfileURL" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/YourProfileURL" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
 </div>
 
 ---
+
+## 🚀 About Me
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I'm currently working on **WEDOCS, FlyWP, WPUF, weMail, Subscribe2, WPERP, WEBOT, Promo-Manager, Dokan, CartPulse, WP Project Manager...**
+
+- 🌱 I'm currently working on **Automation** using **Playwright**
+
+- 👯 I'm looking to collaborate on **Software Automation Testing, Software Testing Process, Project Management**
+
+- 💬 Ask me about **SQA, Automation, SDET, Project Management, Software Testing Process**
+
+- 📫 How to reach me: Email me @, **ratul01047@gmail.com**
+
+- ⚡ Favourite Quote **'_I belong to the warrior in whom the old ways have joined the new._'**
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
+</div></td></tr></table>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/ratzzzatouille" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ratzzzatouille" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nurul-amin-ratul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nurul-amin-ratul/" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rat01047" alt="rat01047" /></a></p>
+
+---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rat01047&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rat01047&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rat01047&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rat01047&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rat01047&theme=monokai&utcOffset=6)  
+
+
+<img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
       
